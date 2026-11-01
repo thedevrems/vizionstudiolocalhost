@@ -1,0 +1,14 @@
+METS TA BASE FIVEM ICI
+======================
+
+Copie dans ce dossier le CONTENU de ta base, pour obtenir :
+
+  server-data\
+  |-- resources\        <- toutes les ressources de ta base
+  |-- server.cfg        <- la config de ta base
+  |-- (autres .cfg)     <- permissions.cfg, resources.cfg... si ta base en a
+
+Attention : server.cfg doit être directement ici, pas dans un sous-dossier
+(server-data\MaBase\server.cfg ne fonctionnera pas).
+
+Tuto complet : README.md, étape 4.

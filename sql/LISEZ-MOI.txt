@@ -1,0 +1,13 @@
+METS LES FICHIERS .SQL DE TA BASE ICI
+====================================
+
+Puis double-clique sur 3-IMPORTER-SQL.bat.
+
+Les fichiers sont importés dans l'ordre alphabétique : numérote-les si
+l'ordre compte, par exemple :
+
+  01_base.sql
+  02_jobs.sql
+  03_vehicules.sql
+
+Tuto complet : README.md, étape 5.

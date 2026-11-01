@@ -1,0 +1,12 @@
+# Réglages personnels (contient la clé de licence)
+config.ini
+
+# FXServer, téléchargé par 1-INSTALLER.bat
+artifacts/
+artifacts.new/
+
+# Ta base et ton SQL restent en local
+server-data/*
+!server-data/LISEZ-MOI.txt
+sql/*
+!sql/LISEZ-MOI.txt
